@@ -1,0 +1,6 @@
+com/xy2h/dao/UserDao.class
+com/xy2h/dto/RegisterResult.class
+com/xy2h/service/impl/UserServiceImpl.class
+com/xy2h/service/UserService.class
+com/xy2h/entity/User.class
+com/xy2h/web/UserController.class
