@@ -9,11 +9,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import static org.junit.Assert.*;
-
 /**
- * @Author XingJun Qi
- * @MyBlog www.qixingjun.tech
+ * @Author lzr
  * @Version 1.0.0
  * @Date 2017/2/14
  * @Description
